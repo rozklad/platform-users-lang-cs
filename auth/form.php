@@ -73,4 +73,9 @@ return array(
 		'submit'                => 'Změnit heslo',
 	),
 
+    'profile' => [
+        'legend' => 'Profil'
+
+    ]
+
 );
