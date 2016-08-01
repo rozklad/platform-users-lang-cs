@@ -71,11 +71,12 @@ return array(
 		'password_confirm'      => 'Potvrzení hesla',
 		'password_confirm_help' => 'Uveďte vaše heslo znovu pro kontrolu.',
 		'submit'                => 'Změnit heslo',
+        'password_confirmation' => 'Potvrzení hesla',
+        'password_confirmation_help' => 'Uveďte vaše heslo znovu pro kontrolu.',
 	),
 
     'profile' => [
         'legend' => 'Profil'
-
-    ]
+    ],
 
 );
